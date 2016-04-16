@@ -1,4 +1,4 @@
-FROM beevelop/cordova
+FROM beevelop/cordova:gapis
 
 MAINTAINER Maik Hummel <m@ikhummel.com>
 
